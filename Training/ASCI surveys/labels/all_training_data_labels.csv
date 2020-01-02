@@ -1,0 +1,273 @@
+survey,file,mark,color,page,q1,q2,q3,q4,q5,q6,q7,q8,q9,q10,q11,q12,q13,q14,q15,q16,q17,q18,q19,q20,check_frames
+asci,asci_fill.pdf,fill,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_fill.pdf,fill,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_fill.pdf,fill,,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_fill.pdf,fill,,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_fill.pdf,fill,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_fill.pdf,fill,,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_fill.pdf,fill,,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_fill_scribble.pdf,fill_scribble,,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_fill_scribble.pdf,fill_scribble,,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_fill_scribble.pdf,fill_scribble,,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_fill_scribble.pdf,fill_scribble,,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_fill_scribble.pdf,fill_scribble,,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_fill_scribble.pdf,fill_scribble,,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_fill_scribble.pdf,fill_scribble,,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,circle,black,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,black,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,circle,black,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,circle,black,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,circle,black,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,circle,black,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,circle,black,8,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,box,black,10,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,box,black,11,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,box,black,12,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,box,black,13,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,box,black,14,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,box,black,15,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,box,black,16,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,17,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,check,black,18,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,check,black,19,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,check,black,20,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,check,black,21,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,check,black,22,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,check,black,23,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,check,black,24,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,25,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,dark grey,26,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,circle,dark grey,27,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,dark grey,28,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,circle,dark grey,29,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,circle,dark grey,30,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,circle,dark grey,31,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,circle,dark grey,32,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,circle,dark grey,33,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,dark grey,34,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,35,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,fwdslash,black,36,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,fwdslash,black,37,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,fwdslash,black,38,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,fwdslash,black,39,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,fwdslash,black,40,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,fwdslash,black,41,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,fwdslash,black,42,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,43,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,44,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,lt,black,45,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,lt,black,46,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,lt,black,47,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,lt,black,48,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,lt,black,49,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,lt,black,50,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,lt,black,51,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,52,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,53,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,star,black,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,star,black,55,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,star,black,56,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,star,black,57,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,star,black,58,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,star,black,59,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,star,black,60,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,61,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,62,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,x,black,63,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,x,black,64,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,x,black,65,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,x,black,66,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,x,black,67,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,x,black,68,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,x,black,69,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,70,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,71,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,backslash,black,72,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,backslash,black,73,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,backslash,black,74,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,backslash,black,75,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,backslash,black,76,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,backslash,black,77,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,backslash,black,78,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,79,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,80,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,vline,black,81,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,vline,black,82,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,vline,black,83,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,vline,black,84,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,vline,black,85,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,vline,black,86,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,vline,black,87,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,88,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,words,black,89,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,gt,black,90,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,gt,black,91,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,gt,black,92,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,gt,black,93,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,gt,black,94,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,gt,black,95,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,gt,black,96,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,words,black,97,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_train_scan.pdf,circle,grey,98,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,grey,99,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,circle,grey,100,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,circle,grey,101,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,circle,grey,102,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,circle,grey,103,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,circle,grey,104,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,forwardslash,black,105,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,backslash,black,106,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,forwardslash,black,107,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,backslash,black,108,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,forwardslash,black,109,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,backslash,black,110,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,forwardslash,black,111,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,backslash,black,112,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,forwardslash,black,113,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,backslash,black,114,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,forwardslash,black,115,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,backslash,black,116,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,forwardslash,black,117,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,backslash,black,118,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,circle,dark grey,119,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,dark grey,120,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,circle,dark grey,121,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,circle,dark grey,122,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,circle,dark grey,123,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,circle,dark grey,124,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,circle,dark grey,125,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,circle,dark grey,126,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,1,
+asci,asci_train_scan.pdf,circle,dark grey,127,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,4,3,2,1,2,
+asci,asci_train_scan.pdf,backslash,black,128,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,
+asci,asci_train_scan.pdf,forwardslash,black,129,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,4,3,2,1,2,
+asci,asci_train_scan.pdf,circle,dark grey,130,1,7,2,6,3,5,4,5,3,6,2,7,1,6,2,5,3,4,5,3,
+asci,asci_train_scan.pdf,forwardslash,dark grey,131,1,3,6,5,3,4,3,5,2,6,3,5,2,5,2,5,4,2,6,1,
+asci,asci_train_scan.pdf,mistake,dark grey,132,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,mistake,dark grey,133,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,mistake,dark grey,134,2,3,4,5,6,7,6,5,4,3,2,1,1,2,3,4,5,6,7,6,
+asci,asci_train_scan.pdf,mistake,dark grey,135,6,5,4,3,2,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,
+asci,asci_train_scan.pdf,mistake,dark grey,136,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,
+asci,asci_train_scan.pdf,mistake,dark grey,137,6,5,4,3,2,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,
+asci,asci_train_scan.pdf,circle,blue,138,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,
+asci,asci_train_scan.pdf,mistake,dark grey,139,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,
+asci,asci_train_scan.pdf,mistake,black,140,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,mistake,grey,141,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,
+asci,asci_train_scan.pdf,circle,black,142,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,black,143,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,circle,black,144,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,circle,black,145,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,circle,black,146,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,circle,black,147,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,circle,black,148,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,backslash,black,149,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,forwardslash,black,150,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,backslash,black,151,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,forwardslash,black,152,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,backslash,black,153,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,forwardslash,black,154,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,backslash,black,155,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,forwardslash,black,156,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,backslash,black,157,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,forwardslash,black,158,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,backslash,black,159,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,forwardslash,black,160,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,backslash,black,161,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,forwardslash,black,162,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,mistake,black,163,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,
+asci,asci_train_scan.pdf,mistake,black,164,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,mistake,black,165,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,blue,166,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,circle,blue,167,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,circle,blue,168,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,circle,blue,169,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,circle,blue,170,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_train_scan.pdf,circle,blue,171,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_train_scan.pdf,circle,blue,172,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_train_scan.pdf,forwardslash,blue,173,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,backslash,blue,174,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_train_scan.pdf,forwardslash,blue,175,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,backslash,blue,176,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_train_scan.pdf,forwardslash,blue,177,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,backslash,blue,178,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_train_scan.pdf,forwardslash,blue,179,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,backslash,blue,180,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_train_scan.pdf,forwardslash,blue,181,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_underline.pdf,words,,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+asci,asci_underline.pdf,underline,,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,
+asci,asci_underline.pdf,underline,,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,
+asci,asci_underline.pdf,underline,,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,
+asci,asci_underline.pdf,underline,,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,
+asci,asci_underline.pdf,underline,,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,
+asci,asci_underline.pdf,underline,,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,
+asci,asci_underline.pdf,underline,,8,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,
+asci,asci_underline.pdf,words,,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+prepost,marked_pre_chc.pdf,words,black,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,1-Aug
+prepost,marked_pre_chc.pdf,circle,black,8,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1-Aug
+prepost,marked_pre_chc.pdf,words,black,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1-Aug
+prepost,marked_pre_math.pdf,words,black,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1-Aug
+prepost,marked_pre_math.pdf,circle,black,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1-Aug
+prepost,marked_pre_math.pdf,circle,black,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1-Aug
+prepost,marked_pre_math.pdf,circle,black,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1-Aug
+prepost,marked_pre_math.pdf,circle,black,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1-Aug
+prepost,marked_pre_math.pdf,circle,black,6,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1-Aug
+prepost,marked_pre_math.pdf,circle,black,7,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,1-Aug
+prepost,marked_pre_math.pdf,circle,black,8,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,1-Aug
+prepost,marked_pre_math.pdf,words,black,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,1-Aug
+asci,PHSC_train.pdf,words,black,1,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2-Aug
+prepost,PHSC_train.pdf,words,black,2,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,2-Aug
+asci,PHSC_train.pdf,circle,black,5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+prepost,PHSC_train.pdf,circle,black,6,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+asci,PHSC_train.pdf,circle,black,9,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+prepost,PHSC_train.pdf,circle,black,10,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+asci,PHSC_train.pdf,circle,black,13,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+prepost,PHSC_train.pdf,circle,black,14,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+asci,PHSC_train.pdf,small slash,black,17,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2-Aug
+prepost,PHSC_train.pdf,small slash,black,18,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2-Aug
+asci,PHSC_train.pdf,small slash,black,21,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2-Aug
+prepost,PHSC_train.pdf,small slash,black,22,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2-Aug
+asci,PHSC_train.pdf,small slash,black,25,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,2-Aug
+prepost,PHSC_train.pdf,small slash,black,26,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,2-Aug
+asci,PHSC_train.pdf,small slash,black,29,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2-Aug
+prepost,PHSC_train.pdf,small slash,black,30,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2-Aug
+asci,PHSC_train.pdf,small slash,black,33,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+prepost,PHSC_train.pdf,small slash,black,34,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+asci,PHSC_train.pdf,small slash,black,37,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+prepost,PHSC_train.pdf,small slash,black,38,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+asci,PHSC_train.pdf,small slash,black,41,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+prepost,PHSC_train.pdf,small slash,black,42,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+asci,PHSC_train.pdf,small x,black,45,1,2,3,4,5,6,6,5,4,3,2,1,2,3,4,5,6,7,6,5,2-Aug
+prepost,PHSC_train.pdf,small x,black,46,4,3,2,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,2-Aug
+asci,PHSC_train.pdf,small x,black,49,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,4,3,2,1,2,2-Aug
+prepost,PHSC_train.pdf,small x,black,50,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,5,4,2-Aug
+asci,PHSC_train.pdf,small x,black,53,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+prepost,PHSC_train.pdf,small x,black,54,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+asci,PHSC_train.pdf,slash,blue,57,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+prepost,PHSC_train.pdf,slash,blue,58,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+asci,PHSC_train.pdf,small circle,blue,61,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+prepost,PHSC_train.pdf,small circle,blue,62,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+asci,PHSC_train.pdf,small circle,blue,65,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+prepost,PHSC_train.pdf,small circle,blue,66,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+asci,PHSC_train.pdf,small circle,blue,69,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,2-Aug
+prepost,PHSC_train.pdf,small circle,blue,70,1,2,3,4,5,6,7,6,5,4,3,2,1,2,3,4,5,6,7,6,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,73,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,74,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,77,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,78,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,81,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,82,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,85,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,86,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,89,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,90,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,93,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,94,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,6,2-Aug
+asci,PHSC_train.pdf,small circle,dark grey,97,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2-Aug
+prepost,PHSC_train.pdf,small circle,dark grey,98,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,2-Aug

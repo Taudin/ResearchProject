@@ -1,4 +1,12 @@
-library(keras)
+#TensorFlow:
+#install.packages("tensorflow")
+library("tensorflow")
+#install_tensorflow(version = "gpu")
+
+#Keras:
+#install.packages("keras")
+library("keras")
+#install_keras(tensorflow = "gpu")
 
 load("ProductionCode/train_and_validation_data.Rdata")
 

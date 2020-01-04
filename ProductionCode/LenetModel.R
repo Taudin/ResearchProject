@@ -7,7 +7,7 @@ library("tensorflow")
 #install.packages("keras")
 library("keras")
 #install_keras(tensorflow = "gpu")
-
+  
 load("ProductionCode/train_and_validation_data.Rdata")
 
 lenet_model <- keras_model_sequential() %>% 
